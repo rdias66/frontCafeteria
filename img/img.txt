@@ -1,3 +1,4 @@
+Nesta pasta as imagens serao armazenadas, tanto quanto as referencias de seus links.
 Image references:
 
 HEADER COFFEE MUG = > https://lottiefiles.com/99730-hot-coffee 
