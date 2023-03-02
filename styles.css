@@ -9,10 +9,28 @@ body {
     background-color: #654017;
     margin: 0;
     width: 100%;
-    padding-bottom: 10px;
+    max-height: 170px;
+    z-index: 1;
 }
-div iframe {
+.fixed-header-section iframe {
     border: 0;
     margin: 0;
+    text-align: left;
+}
+
+.fixed-header-section  a {
+    border: 2px solid rgb(204, 180, 114);
+    border-radius: 2px;
+    padding: 10px;
+    color:rgb(204, 180, 114);
+
+}
+
+ul{
+    display: inline-block;
+    text-align: right;
+}
+li{
+    display: inline-block;
 }
 
