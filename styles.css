@@ -49,3 +49,7 @@ body {
     background-position: center;
 }
 
+.parallax-bg div{
+    position: fixed;
+}
+
